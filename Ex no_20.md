@@ -29,7 +29,8 @@ int main() {
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/ba956331-513d-46b1-8a1f-2b861913e843)
+![image](https://github.com/user-attachments/assets/45a97930-f8b3-41c7-835d-6970ff7294fa)
+
 
 
 ## Result:
