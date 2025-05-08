@@ -30,7 +30,8 @@ count++;
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/d65cad39-91d9-4179-893b-5ae69aed6197)
+![image](https://github.com/user-attachments/assets/ca42b736-b549-46c4-a1f1-8ce2750c7e4b)
+
 
 
 ## Result:
