@@ -28,7 +28,8 @@ return 0;
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/38c64c90-7947-4b20-ab2b-55fb5c1f992c)
+![image](https://github.com/user-attachments/assets/d2b54515-b4fc-4a26-ae8e-9061a72960c9)
+
 
 
 ## Result:
