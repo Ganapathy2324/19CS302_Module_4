@@ -36,7 +36,7 @@ printf("Strings are equal.\n");
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/c5f4e773-967c-499f-aa47-f5504912ba65)
+![image](https://github.com/user-attachments/assets/d89c63e8-18d5-4bd1-aeeb-aa719a0681d4)
 
 
 ## Result:
